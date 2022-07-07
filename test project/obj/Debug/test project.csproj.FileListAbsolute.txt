@@ -1,0 +1,26 @@
+c:\users\khaled\documents\visual studio 2015\Projects\test project\test project\bin\Debug\test project.exe.config
+c:\users\khaled\documents\visual studio 2015\Projects\test project\test project\obj\Debug\test project.csprojResolveAssemblyReference.cache
+c:\users\khaled\documents\visual studio 2015\Projects\test project\test project\obj\Debug\test_project.Properties.Resources.resources
+c:\users\khaled\documents\visual studio 2015\Projects\test project\test project\obj\Debug\test project.csproj.GenerateResource.Cache
+c:\users\khaled\documents\visual studio 2015\Projects\test project\test project\bin\Debug\test project.exe
+c:\users\khaled\documents\visual studio 2015\Projects\test project\test project\bin\Debug\test project.pdb
+c:\users\khaled\documents\visual studio 2015\Projects\test project\test project\obj\Debug\test project.exe
+c:\users\khaled\documents\visual studio 2015\Projects\test project\test project\obj\Debug\test project.pdb
+c:\users\khaled\documents\visual studio 2015\Projects\test project\test project\obj\Debug\test_project.FormKid.resources
+c:\users\khaled\documents\visual studio 2015\Projects\test project\test project\obj\Debug\test_project.FormEmployee.resources
+c:\users\khaled\documents\visual studio 2015\Projects\test project\test project\obj\Debug\test_project.FormColumn.resources
+c:\users\khaled\documents\visual studio 2015\Projects\test project\test project\obj\Debug\test_project.FormLogin.resources
+c:\users\khaled\documents\visual studio 2015\Projects\test project\test project\obj\Debug\test_project.FormAddUser.resources
+C:\Users\KHALED\Desktop\CRUD C#\test project\bin\Debug\test project.exe.config
+C:\Users\KHALED\Desktop\CRUD C#\test project\bin\Debug\test project.exe
+C:\Users\KHALED\Desktop\CRUD C#\test project\bin\Debug\test project.pdb
+C:\Users\KHALED\Desktop\CRUD C#\test project\obj\Debug\test project.csprojAssemblyReference.cache
+C:\Users\KHALED\Desktop\CRUD C#\test project\obj\Debug\test_project.FormAddUser.resources
+C:\Users\KHALED\Desktop\CRUD C#\test project\obj\Debug\test_project.FormEmployee.resources
+C:\Users\KHALED\Desktop\CRUD C#\test project\obj\Debug\test_project.FormColumn.resources
+C:\Users\KHALED\Desktop\CRUD C#\test project\obj\Debug\test_project.FormKid.resources
+C:\Users\KHALED\Desktop\CRUD C#\test project\obj\Debug\test_project.FormLogin.resources
+C:\Users\KHALED\Desktop\CRUD C#\test project\obj\Debug\test_project.Properties.Resources.resources
+C:\Users\KHALED\Desktop\CRUD C#\test project\obj\Debug\test project.csproj.GenerateResource.cache
+C:\Users\KHALED\Desktop\CRUD C#\test project\obj\Debug\test project.exe
+C:\Users\KHALED\Desktop\CRUD C#\test project\obj\Debug\test project.pdb
